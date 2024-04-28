@@ -1,0 +1,75 @@
+End User License Agreement (EULA) for BlueCombo Firmware
+
+Please read this End User License Agreement ("EULA") carefully before downloading,
+installing, or using the firmware provided by BlueCombo ("Licensor").
+By downloading, installing, or using the firmware, you agree to be bound by
+the terms and conditions of this EULA. If you do not agree to the terms of this
+EULA, do not download, install, or use the firmware.
+
+1. License Grant
+
+Subject to the terms and conditions of this EULA, Licensor hereby grants you a
+limited, non-exclusive, non-transferable license to use the firmware solely
+for the purpose of updating and operating the device sold by Licensor.
+
+2. Restrictions
+
+(a) You shall not distribute, sublicense, sell, or otherwise transfer the firmware
+    to any third party without the prior written consent of Licensor.
+
+(b) You shall not modify, adapt, translate, reverse engineer, decompile, disassemble,
+    or create derivative works based on the firmware, except and only to the extent
+    that such activity is expressly permitted by applicable law notwithstanding
+    this limitation.
+
+(c) You shall not remove or alter any copyright notices, trademarks,
+    or other proprietary rights notices contained in the firmware.
+
+3. Ownership
+
+The firmware and all intellectual property rights therein are and shall remain
+the exclusive property of Licensor and its licensors. This EULA does not convey
+to you any ownership interest in the firmware, but only a limited right of
+use revocable in accordance with the terms of this EULA.
+
+4. Warranty Disclaimer
+
+THE FIRMWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE FIRMWARE OR THE USE OR OTHER DEALINGS IN THE FIRMWARE.
+
+5. Limitation of Liability
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT,
+OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES
+FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, OR ANY OTHER
+PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE FIRMWARE,
+EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Termination
+
+This EULA is effective until terminated. Licensor may terminate this EULA at
+any time upon written notice to you if you breach any term of this EULA.
+Upon termination of this EULA, you shall cease all use of the firmware and
+destroy all copies thereof in your possession or control.
+
+7. Governing Law
+
+This EULA shall be governed by and construed in accordance with the laws of
+Italy, without regard to its conflict of law principles.
+
+8. Entire Agreement
+
+This EULA constitutes the entire agreement between you and Licensor with
+respect to the subject matter hereof and supersedes all prior and
+contemporaneous agreements and understandings, whether written or oral,
+relating to such subject matter.
+
+9. Contact Information
+
+If you have any questions or concerns about this EULA,
+please contact BlueCombo at support@bluecombo.eu.
+

@@ -1,0 +1,20 @@
+{
+  "devices": [
+    {
+      "id": "halfpad",
+      "name": "Halfpad",
+      "firmwares": {
+        "releases": [
+          {
+            "version": "0.0.1",
+            "path": "/firmwares/halfpad/fw-halfpad-v0.0.1.bin",
+            "size": 38208,
+            "md5": "6c712f263526f67da1b9feaac91fa725",
+            "latest": true
+          }
+        ],
+        "experimental": []
+      }
+    }
+  ]
+}
