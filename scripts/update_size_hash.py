@@ -22,10 +22,11 @@ def get_file_hash(file_path):
 with open('../firmwares.json', 'r+') as file:
   data = json.load(file)
   for device in data['devices']:
-    for firmware in device['firmwares']:
-      file_path = '..' + firmware['path']
-      firmware['size'] = get_file_size(file_path)
-      firmware['md5'] = get_file_hash(file_path)
+    for mode in ['releases', 'experimental']:
+      for firmware in device['firmwares'][mode]:
+        file_path = '..' + firmware['path']
+        firmware['size'] = get_file_size(file_path)
+        firmware['md5'] = get_file_hash(file_path)
   file.seek(0)
-  json.dump(data, file, indent=4)
+  json.dump(data, file, indent=2)
   file.truncate()
