@@ -6,11 +6,18 @@
       "firmwares": {
         "releases": [
           {
+            "version": "0.0.4",
+            "path": "/firmwares/halfpad/fw-halfpad-v0.0.4.bin",
+            "size": 39688,
+            "md5": "5767a87fd2ae8e1b79c6d51b1332625b",
+            "latest": true
+          },
+          {
             "version": "0.0.3",
             "path": "/firmwares/halfpad/fw-halfpad-v0.0.3.bin",
             "size": 39680,
             "md5": "8c6dda42bd087771a970ab7048a1a89c",
-            "latest": true
+            "latest": false
           },
           {
             "version": "0.0.2",
