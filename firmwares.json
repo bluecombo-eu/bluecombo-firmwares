@@ -10,28 +10,36 @@
             "path": "/firmwares/halfpad/fw-halfpad-v0.0.4.bin",
             "size": 39688,
             "md5": "5767a87fd2ae8e1b79c6d51b1332625b",
-            "latest": true
+            "latest": true,
+            "consoleMinVersion": "0.0.2",
+            "consoleMaxVersion": "0.0.2"
           },
           {
             "version": "0.0.3",
             "path": "/firmwares/halfpad/fw-halfpad-v0.0.3.bin",
             "size": 39680,
             "md5": "8c6dda42bd087771a970ab7048a1a89c",
-            "latest": false
+            "latest": false,
+            "consoleMinVersion": "0.0.2",
+            "consoleMaxVersion": "0.0.2"
           },
           {
             "version": "0.0.2",
             "path": "/firmwares/halfpad/fw-halfpad-v0.0.2.bin",
             "size": 38212,
             "md5": "ff3cbe80bf6b27de0252836c46dbd594",
-            "latest": false
+            "latest": false,
+            "consoleMinVersion": "0.0.1",
+            "consoleMaxVersion": "0.0.1"
           },
           {
             "version": "0.0.1",
             "path": "/firmwares/halfpad/fw-halfpad-v0.0.1.bin",
             "size": 38208,
             "md5": "6c712f263526f67da1b9feaac91fa725",
-            "latest": false
+            "latest": false,
+            "consoleMinVersion": "0.0.1",
+            "consoleMaxVersion": "0.0.1"
           }
         ],
         "experimental": []
